@@ -8,7 +8,7 @@ This repository includes the assignments of CS411: Computer Architecture Design 
 
 ##### Group Members:  
 * Efe ŞAMAN  
-* Çağla ATAOGLU  
+* Çağla ATAOĞLU  
 * Abdul Razak Daher KHATIB  
 
 
